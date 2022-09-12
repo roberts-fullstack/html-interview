@@ -1,0 +1,17 @@
+div {
+  border: 2px solid blue;
+  padding: 25px;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  border-radius: 50px;
+}
+
+li {
+  margin: 10px;
+  font-style: italic;
+}
